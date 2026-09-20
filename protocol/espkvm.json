@@ -1,0 +1,37 @@
+{
+    "name": "espkvm",
+    "connectionForms": [
+        {
+            "name": "network",
+            "fields": [
+                {
+                    "name": "hostname",
+                    "type": "TEXT"
+                },
+                {
+                    "name": "port",
+                    "type": "NUMERIC"
+                }
+            ]
+        },
+        {
+            "name": "authentication",
+            "fields": [
+                {
+                    "name": "username",
+                    "type": "USERNAME"
+                },
+                {
+                    "name": "password",
+                    "type": "PASSWORD"
+                },
+                {
+                    "name": "ignore-cert",
+                    "type": "BOOLEAN",
+                    "options": [ "true" ]
+                }
+            ]
+        }
+    ],
+    "sharingProfileForms": []
+}

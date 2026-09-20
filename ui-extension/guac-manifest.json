@@ -1,0 +1,12 @@
+{
+    "guacamoleVersion": "1.6.0",
+    "name": "ESPKVM Protocol UI",
+    "namespace": "guacamole-espkvm",
+    "js": [
+        "js/bootstrap-v2.js"
+    ],
+    "translations": [
+        "translations/en.json",
+        "translations/de.json"
+    ]
+}

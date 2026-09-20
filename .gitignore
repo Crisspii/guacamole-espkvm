@@ -1,0 +1,38 @@
+# Autotools / build artifacts
+autom4te.cache/
+.libs/
+src/.deps/
+src/.libs/
+
+*.o
+*.lo
+*.la
+*.lai
+*.a
+*.so
+*.so.*
+*.jar
+
+Makefile
+Makefile.in
+aclocal.m4
+compile
+config.guess
+config.log
+config.status
+config.sub
+configure
+configure~
+depcomp
+install-sh
+libtool
+ltmain.sh
+missing
+
+# Local / temporary files
+*.bak
+*.before-*
+*~
+
+# Automake stamp files
+.dirstamp

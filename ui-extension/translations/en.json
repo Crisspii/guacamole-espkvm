@@ -1,0 +1,12 @@
+{
+    "PROTOCOL_ESPKVM": {
+        "NAME": "ESPKVM",
+        "SECTION_HEADER_NETWORK": "Network",
+        "FIELD_HEADER_HOSTNAME": "Hostname:",
+        "FIELD_HEADER_PORT": "Port:",
+        "SECTION_HEADER_AUTHENTICATION": "Authentication",
+        "FIELD_HEADER_USERNAME": "Username:",
+        "FIELD_HEADER_PASSWORD": "Password:",
+        "FIELD_HEADER_IGNORE_CERT": "Ignore server certificate:"
+    }
+}
