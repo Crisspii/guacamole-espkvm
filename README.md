@@ -43,7 +43,7 @@ Clone the repository and run the installer:
 ```bash
 git clone https://github.com/Crisspii/guacamole-espkvm.git
 cd guacamole-espkvm
-sudo ./install.sh
+sudo ./setup.sh
 ```
 
 To uninstall:
