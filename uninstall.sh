@@ -12,6 +12,7 @@ rm -f /usr/local/lib/libguac-client-espkvm.so
 rm -f /usr/local/lib/libguac-client-espkvm.so.0
 rm -f /usr/local/lib/libguac-client-espkvm.so.0.0.0
 rm -f /usr/local/lib/libguac-client-espkvm.la
+rm -f /usr/local/lib/libguac-client-espkvm.a
 
 rm -f /etc/guacamole/protocols/espkvm.json
 
